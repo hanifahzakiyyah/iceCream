@@ -19,14 +19,12 @@ Berikut tampilan dari proyek ini:
 - **React.js** - Library JavaScript untuk membangun UI interaktif.
 - **React Three Fiber (R3F)** - Untuk rendering dan interaksi 3D di dalam website.
 - **Three.js** - Library grafis 3D berbasis WebGL.
-- **Tailwind CSS** - Untuk styling yang cepat dan responsif.
-- **Framer Motion** - Animasi transisi yang halus.
 
 ## 📌 Fitur Utama
 
 ✅ **Interaksi Model 3D** - Rotate, zoom, dan eksplorasi objek secara real-time.  
 ✅ **Animasi Halus** - Transisi interaktif untuk pengalaman yang lebih menarik.  
-✅ **Responsif** - Dapat diakses dengan baik di berbagai perangkat.  
+✅ **Customisasi Warna** - User bisa mengubah-ubah warna es krim.  
 
 
 ## 📞 Kontak
