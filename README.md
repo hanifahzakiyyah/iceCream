@@ -12,7 +12,7 @@ Kamu bisa langsung mengakses website ini di:
 ## 🖼️ Preview
 
 Berikut tampilan dari proyek ini:
-![Preview](https://hzs-studio.vercel.app/eskrim.jpg)
+![Preview](https://hzs-studio.vercel.app/eskrim.webp)
 
 ## 🛠️ Teknologi yang Digunakan
 
