@@ -1,4 +1,4 @@
-# HZS Studio - Showcase Interaktif 3D
+ # HZS Studio - Showcase Interaktif 3D
 
 Selamat datang di repository proyek **HZS Studio**! 🚀
 
@@ -30,7 +30,7 @@ Berikut tampilan dari proyek ini:
 ## 📞 Kontak
 
 Jika ada pertanyaan atau ingin bekerja sama, silakan hubungi:
-📧 Email: contact@hzs-studio.com  
+📧 Email: hanifahzakiyyatus@gmail.com
 🌐 Website: [https://hzs-studio.com](https://hzs-studio.com)
 
 Terima kasih telah mengunjungi repository ini! Semoga bermanfaat! 😊🎨🚀
